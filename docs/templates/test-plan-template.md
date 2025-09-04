@@ -1,0 +1,2 @@
+Test Plan Template
+Project: [e.g., E-Commerce App]Scope: [e.g., Test login, payment, and checkout modules]Objectives: [e.g., Ensure functionality and reliability]Test Types: [e.g., Functional, Negative, Edge Case]Resources: [e.g., 2 testers, Chrome, Firefox]Schedule: [e.g., 2-week sprint]Deliverables: [e.g., Test cases, bug reports, coverage report]Risks: [e.g., Payment failures (see risk-assessment.md)]Jira Integration: [e.g., Link test cases to JIRA-123]
